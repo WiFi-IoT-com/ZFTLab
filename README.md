@@ -1,2 +1,2 @@
-# ZFTLab
-Work of ZFT Lab.
+# ZFT Lab.
+Working repo of ZFT Lab.
